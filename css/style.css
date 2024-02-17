@@ -13,4 +13,15 @@ body{
     align-items: center;
     height: 100vh;
     width: 100vw;
+    background-color: rgb(153, 148, 148);
+}
+body div.main{
+    height: 50vh;
+    width: 50vw;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
 }
